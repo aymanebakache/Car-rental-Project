@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Libraries">
+      <UniqueIdentifier>{04ae5856-36ba-40db-914d-ff8cb10118f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{a0ce5f7c-ae32-461f-941e-59e5f77c1423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{bb645f7f-b43a-40a4-8ae2-5a75042a2c17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Customers">
+      <UniqueIdentifier>{cccc362f-ef8b-4b82-bcff-74bf40416045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Cars">
+      <UniqueIdentifier>{4a462039-e255-4476-a401-e0d979c29892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Admins">
+      <UniqueIdentifier>{7dcad725-52cd-4812-aa8c-e9e900edf13d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GlobalVariables">
+      <UniqueIdentifier>{8f616854-069b-491f-8555-015cda022c2c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Car Rental OOP Project.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCars.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAdmins.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCustomer.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewCustomerScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCustomerHistoryScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCustomersListScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCustomersMenueScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteCustomerScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCustomerScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateCustomerScreen.h">
+      <Filter>Header Files\Screens\Customers</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewCarScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCarsListScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCarsMenueScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteCarScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCarScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsRentCarCalculatorScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateCarScreen.h">
+      <Filter>Header Files\Screens\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewAdminScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAdminsListScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAdminsMenueScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteAdminScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindAdminScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateAdminScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginAdminsListScreen.h">
+      <Filter>Header Files\Screens\Admins</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainMenueScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files\GlobalVariables</Filter>
+    </ClInclude>
+    <ClInclude Include="FilesNames.h">
+      <Filter>Header Files\GlobalVariables</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

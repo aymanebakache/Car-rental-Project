@@ -1,0 +1,10 @@
+Toyota Corolla#//#2020#//#ABC-123#//#5#//#Red#//#50.000000#//#5
+Ford Mustang#//#2019#//#GHI-789#//#4#//#Black#//#100.000000#//#6
+Chevrolet Spark#//#2021#//#JKL-012#//#4#//#White#//#40.000000#//#1
+Tesla Model 3#//#2023#//#MNO-345#//#5#//#Silver#//#120.000000#//#8
+Hyundai Elantra#//#2020#//#PQR-678#//#5#//#Gray#//#55.000000#//#4
+Land Rover Discovery#//#2023#//#STU-901#//#5#//#Black#//#375.359985#//#3
+Audi A4#//#2022#//#VWX-234#//#5#//#Black#//#160.000000#//#2
+Mercedes-Benz C-Class#//#2023#//#YZA-567#//#5#//#White#//#200.000000#//#2
+Volkswagen Golf#//#2019#//#BCD-890#//#5#//#Red#//#70.000000#//#1
+Porsche Cayenne#//#2022#//#WXY-901#//#5#//#White#//#250.000000#//#3
